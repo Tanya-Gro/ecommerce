@@ -99,3 +99,11 @@ Husky helps manage Git hooks, ensuring certain tasks are performed before commit
   `npm install`
 - **Start the development server:**\
   `npm run dev`
+
+## Task
+[GitHub](https://github.com/rolling-scopes-school/tasks/blob/master/tasks/eCommerce-Application/Readme.md)
+   
+## Deploy
+[Netlify](https://ecommerce-yanki.netlify.app/)
+
+[Demo view](https://drive.google.com/file/d/1dplTRozVCew9JWWyZQ-61_9fx4fPUh7X/view?usp=sharing)
